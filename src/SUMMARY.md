@@ -1,7 +1,7 @@
 # Summary
 
-- [Instroduction](./introduction.md)
-- [Infrastrucure](./infrastructure/readme.md)
+- [Introduction](./introduction.md)
+- [Infrastructure](./infrastructure/readme.md)
    - [Networking](./infrastructure/networking.md)
    - [Message Passing](./infrastructure/message_passing.md)
    - [Online Compute](./infrastructure/online_compute.md)
