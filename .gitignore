@@ -1,8 +1,5 @@
-# Devenv
-.devenv*
-devenv.local.nix
-
 # direnv
 .direnv
 
+# Built documentation
 book
