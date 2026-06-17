@@ -1,6 +1,7 @@
 # Summary
 
 - [Introduction](./introduction.md)
+- [Architecture](./architecture/readme.md)
 - [Infrastructure](./infrastructure/readme.md)
    - [Networking](./infrastructure/networking.md)
    - [Message Passing](./infrastructure/message_passing.md)
